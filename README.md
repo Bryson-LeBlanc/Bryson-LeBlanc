@@ -19,8 +19,8 @@
 
 <br/>
 
-![code check](https://raw.githubusercontent.com/Bryson-LeBlanc/Bryson-LeBlanc/fallingCode.gif)
 
+<img justify-self="center" src="https://raw.githubusercontent.com/Bryson-LeBlanc/Bryson-LeBlanc/main/dangerous-ezgif.com-resize.gif"/>
 <!--
 **Bryson-LeBlanc/Bryson-LeBlanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
