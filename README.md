@@ -19,6 +19,8 @@
 
 <br/>
 
+![Pixelated city at night](https://raw.githubusercontent.com/cadamsmith/cadamsmith/main/city.gif)
+
 <!--
 **Bryson-LeBlanc/Bryson-LeBlanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
