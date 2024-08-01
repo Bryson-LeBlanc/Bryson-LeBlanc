@@ -21,6 +21,11 @@
 
 
 <img justify-self="center" src="https://raw.githubusercontent.com/Bryson-LeBlanc/Bryson-LeBlanc/main/zelda.gif"/>
+
+<div>
+    <p>Link is getting an expo marker here</p>
+</div>
+
 <!--
 **Bryson-LeBlanc/Bryson-LeBlanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
